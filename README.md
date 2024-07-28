@@ -16,7 +16,7 @@
 
 1. Git Clone Project
 ```sh
-https://github.com/Priyanshu-bhavsar/pneumonia_detector_project.git
+https://github.com/aviraj0010/server.git
 ```
 
 2. Create an Environment
@@ -58,7 +58,7 @@ http://127.0.0.1:5000/api/predict
 
 1. Git Clone Project 
  ```sh
-https://github.com/aviraj0010/python-frontend.git
+https://github.com/aviraj0010/client.git
 ```
 
 2. Packages install
